@@ -4,7 +4,7 @@
  
 ### Opção recomendada (em Windows)
 
-Instalar o [Anaconda](https://www.anaconda.com/distribution/).
+Instalar o Jupyter com o [Anaconda](https://www.anaconda.com/distribution/).
 
 ### Opção alternativa 
 
