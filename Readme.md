@@ -52,7 +52,7 @@ Há dois tipos de células num notebook:
 
 Vamos escrever simplesmente "Primeiro notebook" na caixa de texto apresentada. Depois, no menu **Cell**, vamos indicar que é uma caixa de texto, como ilustrado na imagem seguinte.
 
-![ALterar o tipo de célula](imagens/change%20cell%20type.png)
+![Alterar o tipo de célula](imagens/change%20cell%20type.png)
 
 Depois vamos clicar em "Run".
 
