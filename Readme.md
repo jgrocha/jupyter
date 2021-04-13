@@ -11,6 +11,12 @@ Instalar o [Anaconda](https://www.anaconda.com/distribution/).
 Para quem tem o Python instalado e o pip:
 
 ```
+pip install jupyter
+```
+
+Em Linux, se coexistir o Python 2 e Python 3, fazer:
+
+```
 sudo pip3 install jupyter
 ```
 
