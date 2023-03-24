@@ -1,0 +1,32 @@
+1,Italy,Francesco Bagnaia
+2,France,Fabio Quartararo
+3,Spain,Aleix Espargaro
+4,Italy,Enea Bastianini
+5,Australia,Jack Miller
+6,South Africa,Brad Binder
+7,France,Johann Zarco
+8,Spain,Alex Rins
+9,Portugal,Miguel Oliveira
+10,Spain,Jorge Martin
+11,Spain,Maverick Viñales
+12,Spain,Marc Marquez
+13,Italy,Luca Marini
+14,Italy,Marco Bezzecchi
+15,Spain,Joan Mir
+16,Spain,Pol Espargaro
+17,Spain,Alex Marquez
+18,Japan,Takaaki Nakagami
+19,Italy,Franco Morbidelli
+20,Italy,Fabio Di Giannantonio
+21,Italy,Andrea Dovizioso
+22,South Africa,Darryn Binder
+23,Australia,Remy Gardner
+24,United Kingdom,Cal Crutchlow
+25,Spain,Raul Fernandez
+26,Germany,Stefan Bradl
+27,Italy,Michele Pirro
+28,Italy,Lorenzo Savadori
+29,Japan,Tetsuta Nagashima
+30,Italy,Danilo Petrucci
+31,Japan,Kazuki Watanabe
+32,Japan,Takuya Tsuda
